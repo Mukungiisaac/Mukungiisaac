@@ -101,3 +101,61 @@ body {
         border-left: none;
     }
 }
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        background: #2C3E50;
+        z-index: 1000;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .sidebar h2 {
+        display: none;
+    }
+
+    .sidebar ul {
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .sidebar ul li {
+        flex: 1;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .chat-container {
+        width: 100%;
+        height: calc(100vh - 50px);
+        margin: 0;
+    }
+
+    .chat-box {
+        padding: 10px;
+    }
+
+    .chat-input {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .chat-input input[type="text"] {
+        width: 100%;
+    }
+
+    .chat-input button {
+        width: 100%;
+        font-size: 16px;
+    }
+}
