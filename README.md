@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mukungiisaac
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning Website basics
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m passionate in Software Development and Artificial Intelligence
+- 🌱 I’m currently learning Python and Data Science 
+- 💞️ I’m looking to collaborate in coding
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Coding is sweet at night or in a dark room
