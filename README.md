@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Mukungiisaac
-- 👀 I’m passionate in Software Development and Artificial Intelligence
-- 🌱 I’m currently learning Python and Data Science 
-- 💞️ I’m looking to collaborate in coding
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Coding is sweet at night or in a dark room
+
+I’m a passionate Data Scientist and Web Technologies enthusiast dedicated to solving real-world problems through the power of data and code. With a strong foundation in Data Science, DevOps practices,I build scalable, intelligent, and impactful solutions.
+
+-🔧 What I Work With:-
+
+💻 Programming: Python | JavaScript | MySQL
+
+🐳 DevOps: Git | GitHub CI/CD
+
+📊 Data: Pandas | NumPy | Scikit-learn | Jupyter
+
+🌐 Web: HTML/CSS | Streamlit | Firebase | PostgreSQL
+
+🚀 I'm especially passionate about:
+
+Building data-driven web applications
+
+Designing machine learning models for meaningful insights
+
+Advocating for clean code, collaboration, and open-source contribution
+
+Exploring how AI, cloud, and DevOps intersect for modern software delivery
+
 
 <!---
 Mukungiisaac/Mukungiisaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
