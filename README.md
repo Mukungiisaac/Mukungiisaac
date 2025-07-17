@@ -9,7 +9,7 @@ I’m a passionate Data Scientist and Web Technologies enthusiast dedicated to s
 
 📊 Data: Pandas | NumPy | Scikit-learn | Jupyter
 
-🌐 Web: HTML/CSS | Streamlit | Firebase | PostgreSQL
+🌐 Web: HTML/CSS | Tailwindcss | React | Streamlit | Firebase | PostgreSQL
 
 🚀 I'm especially passionate about:
 
