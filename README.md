@@ -21,6 +21,8 @@ Advocating for clean code, collaboration, and open-source contribution
 
 Exploring how AI, cloud, and DevOps intersect for modern software delivery
 
+  **MY STACK AND TECHNOLOGIES**
+
 <a href="https://blog.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
        alt="Python" width="50" height="50"/>
