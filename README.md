@@ -28,6 +28,18 @@ Exploring how AI, cloud, and DevOps intersect for modern software delivery
        alt="Python" width="50" height="50"/>
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+       alt="HTML5" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" width="50" height="50"/>
+</a>
+
+
+
 
 
 <!---
